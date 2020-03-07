@@ -23,4 +23,4 @@ All additions and updates in The Book must be made as follow (#TODO see "Law #xx
 * Review the Pull Request according to the review checklist (TBD)  
 * Merge if everything is ok.  
 
-> In case of a constitution update, a 5 days delay must be observed before mergin it.  
+> In case of a constitution update, a 5 days delay must be observed before merging it.  
