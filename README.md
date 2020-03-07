@@ -15,7 +15,7 @@ A law is the definition of a specific process (i.e. Dollar-Cost-Averaging). It d
 The Strategy is the current investing strategy applied to a specific portfolio.  
 It refers to several laws and defines common portfolio features (distribution, supports, targeted markets and companies,...)  
 
-### Modifications to The Book (Law xx - Book Modifications)
+## Modifications to The Book (Law xx - Book Modifications)
 All additions and updates in The Book must be made as follow (#TODO see "Law #xx - Book Modifications" for more details):  
 * Create a new branch named ad follows : "action(chapter): description".  `action` can be either [add,update,delete]. `chapter` can be either [constitution,laws,strategy]. `description` is a sum up of the suggested modification.  
 * Write the modifications  
