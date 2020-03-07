@@ -17,7 +17,7 @@ It refers to several laws and defines common portfolio features (distribution, s
 
 ### Modifications to The Book (Law xx - Book Modifications)
 All additions and updates in The Book must be made as follow (#TODO see "Law #xx - Book Modifications" for more details):  
-* Create a new branch named ad follows : "action(chapter): description".  action can be one of [add,update,delete]. chapter can be one of [constitution,laws,strategy]. description is a sum up of the suggested modification.  
+* Create a new branch named ad follows : "action(chapter): description".  `action` can be either [add,update,delete]. `chapter` can be either [constitution,laws,strategy]. `description` is a sum up of the suggested modification.  
 * Write the modifications  
 * Submit a Pull Request to branch master, explaining why it should be made  
 * Review the Pull Request according to the review checklist (TBD)  
